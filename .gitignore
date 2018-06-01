@@ -8,4 +8,3 @@ app/app.iml
 backend/backend.iml
 backend/build/
 jokes-app.iml
-/joke-provider/joke-provider.iml
